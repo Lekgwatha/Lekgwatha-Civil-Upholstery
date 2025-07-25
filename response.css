@@ -61,6 +61,19 @@
         width: 80%;
         margin-top: -15%;
     }
+
+        .modal-container {
+            width: 95%;
+            padding: 20px;
+        }
+    
+        .modal-slide img {
+            height: 300px;
+        }
+    
+        .modal-features {
+            grid-template-columns: 1fr;
+        }
 }
 
 @media (max-width: 360px) {
